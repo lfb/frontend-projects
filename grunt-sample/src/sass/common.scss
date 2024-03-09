@@ -1,0 +1,10 @@
+$font-color: #fff;
+$background-color: #fc1;
+$primary-color: #f00;
+
+body {
+  font-size: 15px;
+  color: $font-color;
+  border: 1px solid $primary-color;
+  background-color: $background-color;
+}
